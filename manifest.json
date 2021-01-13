@@ -1,6 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Unsplash Gmail backgrounds",
+  "description": "Get random images from Unsplash as your Gmail background",
   "version": "0.1",
   "content_scripts": [
     {
